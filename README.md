@@ -42,9 +42,11 @@ Use keyboard shortcuts for quick actions:
 
 ## Requirements
 
-Python 3.8 or higher
-Ollama server with the niradler/k8s-operator:latest model
-kubectl installed and configured to access your Kubernetes cluster.
+- Python 3.8 or higher
+- Ollama server with the niradler/k8s-operator:latest model:
+- - [Download model](https://huggingface.co/niradler/k8s_operator/resolve/main/unsloth.Q4_K_M.gguf?download=true)
+- - use the [Modelfile](Modelfile)
+- kubectl installed and configured to access your Kubernetes cluster.
 
 ## TODO:
 
