@@ -28,14 +28,17 @@ Click the "Prompt" button or press Enter to generate the kubectl command and vie
 Use the JSON viewer to explore the output:
 
 Search for specific keys or values.
+
 Expand or collapse nodes.
+
 Copy selected values to your clipboard.
+
 Use keyboard shortcuts for quick actions:
 
-x: Expand/Collapse all nodes.
-s or /: Focus on the search bar.
-c: Copy the selected value.
-q: Quit the application.
+- x: Expand/Collapse all nodes.
+- s or /: Focus on the search bar.
+- c: Copy the selected value.
+- q: Quit the application.
 
 ## Requirements
 
